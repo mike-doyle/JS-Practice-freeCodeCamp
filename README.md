@@ -1,1 +1,1 @@
-simple JS, jsut learning and getting started. 
+Simple JS, just learning and getting started. 
